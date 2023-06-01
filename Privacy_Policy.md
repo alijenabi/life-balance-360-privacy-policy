@@ -1,7 +1,3 @@
-Here's the revised Privacy Policy:
-
----
-
 # Privacy Policy
 
 Last updated: June 2, 2023
