@@ -1,4 +1,6 @@
-# Privacy Policy
+---
+title: Life Balance 360 - Privacy Policy
+---
 
 Last updated: June 2, 2023
 
@@ -27,6 +29,8 @@ We prioritize protecting the data you store on our app. However, it's important 
 ## Changes to This Privacy Policy
 
 We reserve the right, at our discretion, to modify this Privacy Policy at any time. Changes will be posted on this page, and the date at the top of this Privacy Policy will be updated. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+For any inquiries, please email me at ajenabid[at]gmail[dot]com.
 
 ---
 
